@@ -1,0 +1,6 @@
+E:\Programação e Algoritimo\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.CoreCompileInputs.cache
+E:\Programação e Algoritimo\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+E:\Programação e Algoritimo\exercicio2\exercicio2\bin\Debug\exercicio2.exe
+E:\Programação e Algoritimo\exercicio2\exercicio2\bin\Debug\exercicio2.pdb
+E:\Programação e Algoritimo\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+E:\Programação e Algoritimo\exercicio2\exercicio2\obj\Debug\exercicio2.pdb
